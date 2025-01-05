@@ -1,6 +1,12 @@
 # Proyecto-Final-SO
 Evaluación Final.
 
+Alumnos: 
+Hernández Mendoza Alan Emanuel
+Ontañon Ortiz Jhonatan Jazael
+Sierra Estrada Daniela
+
+
 Especificación del Mensaje y Flujo de Comunicación en el Sistema de Mensajería
 
 El sistema implementará un esquema de comunicación entre un productor y un consumidor utilizando un Broker Buffer MQTT (Mosquitto), empleando tópicos y sub-tópicos para la transmisión de datos. A continuación, se describe el mensaje que será enviado por el productor:
