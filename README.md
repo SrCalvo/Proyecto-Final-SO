@@ -2,9 +2,9 @@
 Evaluación Final.
 
 Alumnos: 
-Hernández Mendoza Alan Emanuel
+Hernández Mendoza Alan Emanuel,
 Ontañon Ortiz Jhonatan Jazael
-Sierra Estrada Daniela
+,Sierra Estrada Daniela.
 
 
 Especificación del Mensaje y Flujo de Comunicación en el Sistema de Mensajería
